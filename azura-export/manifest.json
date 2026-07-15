@@ -1,0 +1,193 @@
+﻿{
+    "source":  "https://azura-wbs.webflow.io",
+    "generatedAt":  "2026-07-15T05:39:15",
+    "pages":  [
+                  {
+                      "route":  "/",
+                      "file":  "index.html",
+                      "status":  200,
+                      "url":  "https://azura-wbs.webflow.io/"
+                  },
+                  {
+                      "route":  "/about",
+                      "file":  "about.html",
+                      "status":  200,
+                      "url":  "https://azura-wbs.webflow.io/about"
+                  },
+                  {
+                      "route":  "/feature",
+                      "file":  "feature.html",
+                      "status":  200,
+                      "url":  "https://azura-wbs.webflow.io/feature"
+                  },
+                  {
+                      "route":  "/pricing",
+                      "file":  "pricing.html",
+                      "status":  200,
+                      "url":  "https://azura-wbs.webflow.io/pricing"
+                  },
+                  {
+                      "route":  "/career",
+                      "file":  "career.html",
+                      "status":  200,
+                      "url":  "https://azura-wbs.webflow.io/career"
+                  },
+                  {
+                      "route":  "/blog",
+                      "file":  "blog.html",
+                      "status":  200,
+                      "url":  "https://azura-wbs.webflow.io/blog"
+                  },
+                  {
+                      "route":  "/contact",
+                      "file":  "contact.html",
+                      "status":  200,
+                      "url":  "https://azura-wbs.webflow.io/contact"
+                  },
+                  {
+                      "route":  "/privacy-policy",
+                      "file":  "privacy-policy.html",
+                      "status":  200,
+                      "url":  "https://azura-wbs.webflow.io/privacy-policy"
+                  },
+                  {
+                      "route":  "/404",
+                      "file":  "404.html",
+                      "status":  200,
+                      "url":  "https://azura-wbs.webflow.io/404"
+                  },
+                  {
+                      "route":  "/401",
+                      "file":  "401.html",
+                      "status":  200,
+                      "url":  "https://azura-wbs.webflow.io/401"
+                  },
+                  {
+                      "route":  "/utility-pages/link-in-bio",
+                      "file":  "utility-pages\\link-in-bio.html",
+                      "status":  200,
+                      "url":  "https://azura-wbs.webflow.io/utility-pages/link-in-bio"
+                  },
+                  {
+                      "route":  "/utility-pages/coming-soon",
+                      "file":  "utility-pages\\coming-soon.html",
+                      "status":  200,
+                      "url":  "https://azura-wbs.webflow.io/utility-pages/coming-soon"
+                  },
+                  {
+                      "route":  "/user-pages/log-in",
+                      "file":  "user-pages\\log-in.html",
+                      "status":  200,
+                      "url":  "https://azura-wbs.webflow.io/user-pages/log-in"
+                  },
+                  {
+                      "route":  "/user-pages/sign-up",
+                      "file":  "user-pages\\sign-up.html",
+                      "status":  200,
+                      "url":  "https://azura-wbs.webflow.io/user-pages/sign-up"
+                  },
+                  {
+                      "route":  "/user-pages/reset-password",
+                      "file":  "user-pages\\reset-password.html",
+                      "status":  200,
+                      "url":  "https://azura-wbs.webflow.io/user-pages/reset-password"
+                  },
+                  {
+                      "route":  "/user-pages/update-password",
+                      "file":  "user-pages\\update-password.html",
+                      "status":  200,
+                      "url":  "https://azura-wbs.webflow.io/user-pages/update-password"
+                  },
+                  {
+                      "route":  "/user-pages/email-confirmation",
+                      "file":  "user-pages\\email-confirmation.html",
+                      "status":  200,
+                      "url":  "https://azura-wbs.webflow.io/user-pages/email-confirmation"
+                  },
+                  {
+                      "route":  "/utility-pages/style-guide",
+                      "file":  "utility-pages\\style-guide.html",
+                      "status":  200,
+                      "url":  "https://azura-wbs.webflow.io/utility-pages/style-guide"
+                  },
+                  {
+                      "route":  "/utility-pages/instructions",
+                      "file":  "utility-pages\\instructions.html",
+                      "status":  200,
+                      "url":  "https://azura-wbs.webflow.io/utility-pages/instructions"
+                  },
+                  {
+                      "route":  "/utility-pages/licenses",
+                      "file":  "utility-pages\\licenses.html",
+                      "status":  200,
+                      "url":  "https://azura-wbs.webflow.io/utility-pages/licenses"
+                  },
+                  {
+                      "route":  "/utility-pages/changelog",
+                      "file":  "utility-pages\\changelog.html",
+                      "status":  200,
+                      "url":  "https://azura-wbs.webflow.io/utility-pages/changelog"
+                  },
+                  {
+                      "route":  "/team/dennis-barrett",
+                      "file":  "team\\dennis-barrett.html",
+                      "status":  200,
+                      "url":  "https://azura-wbs.webflow.io/team/dennis-barrett"
+                  },
+                  {
+                      "route":  "/team/judy-nguyen",
+                      "file":  "team\\judy-nguyen.html",
+                      "status":  200,
+                      "url":  "https://azura-wbs.webflow.io/team/judy-nguyen"
+                  },
+                  {
+                      "route":  "/team/billy-vasquez",
+                      "file":  "team\\billy-vasquez.html",
+                      "status":  200,
+                      "url":  "https://azura-wbs.webflow.io/team/billy-vasquez"
+                  },
+                  {
+                      "route":  "/team/amanda-reed",
+                      "file":  "team\\amanda-reed.html",
+                      "status":  200,
+                      "url":  "https://azura-wbs.webflow.io/team/amanda-reed"
+                  },
+                  {
+                      "route":  "/blog/exploring-the-latest-mobile-innovations-",
+                      "file":  "blog\\exploring-the-latest-mobile-innovations-.html",
+                      "status":  200,
+                      "url":  "https://azura-wbs.webflow.io/blog/exploring-the-latest-mobile-innovations-"
+                  },
+                  {
+                      "route":  "/blog/behind-the-scenes-insights",
+                      "file":  "blog\\behind-the-scenes-insights.html",
+                      "status":  200,
+                      "url":  "https://azura-wbs.webflow.io/blog/behind-the-scenes-insights"
+                  },
+                  {
+                      "route":  "/blog/uncovering-the-best-apps-for-your-needs",
+                      "file":  "blog\\uncovering-the-best-apps-for-your-needs.html",
+                      "status":  200,
+                      "url":  "https://azura-wbs.webflow.io/blog/uncovering-the-best-apps-for-your-needs"
+                  },
+                  {
+                      "route":  "/blog/navigating-the-ever-evolving-mobile-landscape",
+                      "file":  "blog\\navigating-the-ever-evolving-mobile-landscape.html",
+                      "status":  200,
+                      "url":  "https://azura-wbs.webflow.io/blog/navigating-the-ever-evolving-mobile-landscape"
+                  },
+                  {
+                      "route":  "/blog/comparing-the-top-mobile-applications",
+                      "file":  "blog\\comparing-the-top-mobile-applications.html",
+                      "status":  200,
+                      "url":  "https://azura-wbs.webflow.io/blog/comparing-the-top-mobile-applications"
+                  },
+                  {
+                      "route":  "/blog/protecting-your-data-in-a-mobile-world",
+                      "file":  "blog\\protecting-your-data-in-a-mobile-world.html",
+                      "status":  200,
+                      "url":  "https://azura-wbs.webflow.io/blog/protecting-your-data-in-a-mobile-world"
+                  }
+              ],
+    "assetCount":  176
+}
